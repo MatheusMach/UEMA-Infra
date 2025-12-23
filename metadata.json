@@ -1,0 +1,8 @@
+{
+  "name": "UEMA Infra - Gestão de Manutenção",
+  "description": "Sistema de gestão de chamados de manutenção para a Universidade Estadual do Maranhão, com análise preditiva via IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
